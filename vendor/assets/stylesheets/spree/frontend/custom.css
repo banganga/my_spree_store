@@ -1,0 +1,40 @@
+body {
+  background-color: #111;
+  color: #DDD;
+}
+a.list-group-item {
+  background-color: #222;
+  color: #FFF;
+}
+.panel {
+  background-color: #111;
+  color: #DDD;
+}
+.price.selling.lead {
+  background-color: #f5f5f5;
+  color: #000;
+}
+.container:first-child {
+  background-color: #FFF;
+  border-radius: 2em;
+
+}
+.container:first-child img {
+    margin: 10px;
+  }
+.nav#nav-bar li a {
+  background-color: #FFF;
+  color: #000;
+}
+.well {
+  background-color: #111;
+  color: #DDD;
+}
+.lead.price.selling {
+  background-color: #111;
+  color: #DDD;
+}
+.panel-footer {
+  background-color: #111;
+  color: #DDD;
+}
