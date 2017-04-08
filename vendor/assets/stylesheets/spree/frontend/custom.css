@@ -38,3 +38,20 @@ a.list-group-item {
   background-color: #111;
   color: #DDD;
 }
+.product-body.text-center a{
+  color: #BBF ; 
+}
+.alert-info, .alert-alert {
+  background-color: #111;
+  border-color: #333;
+  color: #DDD;
+}
+#product-properties.table td {
+  background-color: #111;
+}
+li.list-group-item {
+  background-color: #000;
+}
+.table tr td, .table thead tr.active th{
+  background-color: #111 !important;
+}
